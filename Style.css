@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+i.spinner-border {
+    width: 1.4rem;
+    height: 1.4rem;
+}
+#cool_font{
+    font-family: 'Berkshire Swash',cursive;
+}
+
+#input_username{
+    color:#AC49F5;
+}
+
+body {
+    overflow-wrap: break-word;
+}
+
+hr.m-0 {
+    color: #7e7d7d;
+}
+
+div#users {
+    padding: 1rem 1.25rem;
+    overflow-wrap: break-word;
+}
+
+div#response {
+    min-width: 0;
+    overflow-wrap: break-word;
+}
